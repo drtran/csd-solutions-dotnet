@@ -1,0 +1,1 @@
+C:\csd2015\sample-code\csd-solutions-dontet\csd-solutions-dotnet\lab2_sol\bin\Debug\lab2_sol.exe.config
